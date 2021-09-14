@@ -1,7 +1,12 @@
 channels:
   - conda-forge
 dependencies:
+  - matplotlib
   - pandas
   - scikit-learn
   - tensorflow
   - keras
+  - pydot
+  - pydotplus
+  - graphviz
+  - opencv  

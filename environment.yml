@@ -1,6 +1,7 @@
 channels:
   - conda-forge
 dependencies:
+  - r-base=3.6
   - matplotlib
   - pandas
   - scikit-learn
@@ -9,4 +10,4 @@ dependencies:
   - pydot
   - pydotplus
   - graphviz
-  - opencv  
+  - opencv
